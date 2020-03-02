@@ -11,21 +11,21 @@ Le cours est sous licence Apache 2.0, cela signifie que tout le matériel prése
 ## Objectifs
 
 ### Identifier l'IA
-A la fin de cette partie, l'étudiant sera capable de :
--   Saisir la différence entre l'IA et un logiciel classique
+A la fin de cette partie, l'élève sera capable de :
+-   Comprendre la différence entre l'IA et un logiciel classique
 -   Identifier les domaines liés à l'IA
 -   Distinguer les différents types d'IA
 
 ### Déchiffrer le fonctionnement de l'IA
-Pour cette partie, l'étudiant sera capable de:
--   Citer quelques algorithmes/méthodes populaires utilisant l'IA
--   Expliquer de manière grossière le fonctionnement globale du Machine Learning (Jeux de donnée → Algorithme → Prédiction)
+Pour cette partie, l'élève sera capable de:
+-   Citer quelques algorithmes/méthodes populaires utilisant l'IA (résolution de problème, MinMax)
+-   Expliquer globalement le fonctionnement du Machine Learning (Jeux de données → Algorithme → Prédiction)
 
 ### Saisir l'impact sociétale de l'IA
-Cette dernière partie verra l'étudiant capable de:
+Suite à cette dernière partie, l'élève sera capable de:
 -   Discerner les différents biais algorithmiques qu'apporte un mauvais jeux de données
--   Avoir un esprit plus critique vis-à-vis de contenu média (en particulier vidéo et image)
--   Comprendre les enjeux liés aux bulles de filtrage.
+-   Avoir un esprit plus critique vis-à-vis des contenus média (en particulier vidéos et images)
+-   Comprendre les enjeux liés aux bulles de filtrage
 
 ## Outils utilisé
 Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
