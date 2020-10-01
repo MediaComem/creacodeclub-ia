@@ -12,7 +12,7 @@ XX minutes ##TODO
 
 Présenter rapidement le contenu du cours et ce qu'ils vont y apprendre.
 
-Discuter avec les élèves sur la question suivante: "Qu'est qu'une IA pour vous ?" 
+Discuter avec les élèves sur la question suivante: "Qu'est qu'une IA pour vous ?"
 Les résultats obtenus suite à cette discussion sont mis de côté pour plus tard. ##TODO Dans un but spécifique ou "si besoin", utilisés à la volée ?
 
 ## Application pratique de l'IA
@@ -37,15 +37,23 @@ Exercice à faire en groupe est ensuite donné aux élèves. Celui-ci consiste �
 
 ### Durée
 
-XX minutes - Présentation  ##TODO
+XX minutes - Présentation ##TODO
 
-XX minutes - Exercice & Correction ##TODO$
+XX minutes - Exercice & Correction ##TODO\$
 
 ### Contenu
 
-AI, Robotique, Apprentissage automatique (Machine Learning), Science des données, Maths, Statistiques, Informatique.
+| Domaine                                      | Définition                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI                                           | ["L'intelligence artificielle (IA) est « l'ensemble des théories et des techniques mises en œuvre en vue de réaliser des machines capables de simuler l'intelligence "](https://fr.wikipedia.org/wiki/Intelligence_artificielle)                                                                                                                                                                               |
+| Robotique                                    | ["La robotique est l'ensemble des techniques permettant la conception et la réalisation de machines automatiques ou de robots."](https://fr.wikipedia.org/wiki/Robotique)                                                                                                                                                                                                                                      |
+| Apprentissage automatique (Machine Learning) | ["l'apprentissage automatique [..] est un champ d'étude de l'intelligence artificielle qui se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d'« apprendre » à partir de données, c'est-à-dire d'améliorer leurs performances à résoudre des tâches sans être explicitement programmés pour chacune."](https://fr.wikipedia.org/wiki/Apprentissage_automatique) |
+| Science des données                          | ["En termes généraux, la science des données est l'extraction de connaissance d'ensembles de données"](https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es)                                                                                                                                                                                                                                                 |
+| Maths                                        | ["sont un ensemble de connaissances abstraites résultant de raisonnements logiques appliqués à des objets divers tels que les ensembles mathématiques, les nombres, les formes, les structures, les transformations, etc. ; ainsi qu'aux relations et opérations mathématiques qui existent entre ces objets"](https://fr.wikipedia.org/wiki/Math%C3%A9matiques)                                               |
+| Statistiques                                 | ["La statistique est la discipline qui étudie des phénomènes à travers la collecte de données, leur traitement, leur analyse, l'interprétation des résultats et leur présentation afin de rendre ces données compréhensibles par tous."](https://fr.wikipedia.org/wiki/Statistique)                                                                                                                            |
+| Informatique.                                | ["L'informatique est un domaine d'activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique par l'exécution de programmes informatiques par des machines"](https://fr.wikipedia.org/wiki/Informatique)                                                                                                                                                   |
 
-Premièrement, définir chacun des mot ci-dessus de la façon la plus simple possible, puis avec l'aide des élèves, construire un diagramme d'Euler des différents domaines et de leurs liens (le diagramme est disponible dans le support de cours). ##TODO lien vers diagramme ?
+Premièrement, définir/expliquer chacun des domaines ci-dessus, puis avec l'aide des élèves, construire un diagramme d'Euler des différents domaines et de leurs liens (le diagramme est disponible dans le support de cours). ##TODO lien vers diagramme ?
 
 ### Exercice
 
@@ -73,7 +81,7 @@ XX minutes ##TODO
 
 ### Contenu
 
-Présenter rapidement le contenu du cours et ce qu'il vont y apprendre. 
+Présenter rapidement le contenu du cours et ce qu'il vont y apprendre.
 
 ## Qu'est-ce qu'un algorithme ?
 
@@ -97,7 +105,7 @@ XX minutes - Exercice
 
 ### Contenu
 
-Présenter le concept d'algorithme de résolution de problème grâce à l'énigme "Renard, Poule, Graine" à l'aide du support de cours. 
+Présenter le concept d'algorithme de résolution de problème grâce à l'énigme "Renard, Poule, Graine" à l'aide du support de cours.
 
 Résoudre l'énigme avec les élèves et expliquer son lien avec l'IA.
 
@@ -127,7 +135,7 @@ Passer les 2 vidéos suivantes: "[C'est quoi l'intelligence artificielle](https:
 
 ### Exercice
 
- ["Jeux, set et match ! (Adapté de Bingo AI)"](./exercices/jeux-set-et-match.md)
+["Jeux, set et match ! (Adapté de Bingo AI)"](./exercices/jeux-set-et-match.md)
 
 # Saisir l'impact sociétale de l'IA
 
@@ -153,16 +161,16 @@ XX minutes ##TODO
 
 Revoir rapidement le concept d'algorithme.
 
-Présenter ensuite le principe du biais algorithmique avec le principe de la recette de la tartine (tout le monde voit d'une façon différente la manière de préparer une tartine) à l'aide du support de cours. 
+Présenter ensuite le principe du biais algorithmique avec le principe de la recette de la tartine (tout le monde voit d'une façon différente la manière de préparer une tartine) à l'aide du support de cours.
 
 Passer ensuite la vidéo "[Reconaissance faciale: raciste et inefficace](https://www.youtube.com/watch?v=mkhES5pZrDA)"
 
 Discuter avec les élèves sur les points suivants en les guidant dans leurs réponses:
 
--   *Que pensez-vous du taux d’erreur de ces systèmes ?*
--   *Que dire sur le fait que celui-ci augmente suivant vos origines ?*
--   *Pourquoi pensez-vous que c’est un problème ?*
--   *Pensez-vous qu’installer ce type de système serait une bonne idée ?*
+- _Que pensez-vous du taux d’erreur de ces systèmes ?_
+- _Que dire sur le fait que celui-ci augmente suivant vos origines ?_
+- _Pourquoi pensez-vous que c’est un problème ?_
+- _Pensez-vous qu’installer ce type de système serait une bonne idée ?_
 
 ##TODO - Réponses / Issues aux questions attendus ? Comment clore cette partie ? Points à retenir ?
 
@@ -182,11 +190,11 @@ Discuter avec les élèves sur :
 
 ### Exercice
 
- ["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
+["Voir n'est pas croire"](./exercices/voir-nest-pas-croire.md)
 
-Suivi d'une discussion sur la question : 
+Suivi d'une discussion sur la question :
 
-*Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?*
+_Que pensez-vous de ces technologies ? Est-ce plutôt bien ou mal ? Qu'en feriez-vous ?_
 
 ## Bulles de filtrage
 
@@ -200,15 +208,16 @@ XX minutes - Exercice ##TODO
 
 Expliquer le principe de fonctionnement des systèmes de recommandation avec l'exemple concret de la recommandation de musique de Spotify et du schéma fourni dans le support. Leur parler ensuite du problème que cela engendre (bulles de filtrage) et de leurs éventuelles conséquence (prendre l'exemple concret des recommandations YouTube et des vidéos complotistes) :
 
-- *Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?*
-- *Que se passe-t-il du point de vue de l'esprit critique ?*
-- *Quel est le problème de ne pas être confronté à d'autres points de vue ?*
+- _Que se passe-t-il si l'on ne consomme que du contenu qui nous plaît ou pourrait nous plaire ?_
+- _Que se passe-t-il du point de vue de l'esprit critique ?_
+- _Quel est le problème de ne pas être confronté à d'autres points de vue ?_
 
 ### Exercice
 
- ["Dans ma bulle"](./exercices/dans-ma-bulle.md) 
+["Dans ma bulle"](./exercices/dans-ma-bulle.md)
 
 Suivi d'une discussion des résultats en donnant également quelques outils pour sortir d'une bulle de filtrage.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAwODQwNjgwOCwxODUzNDQ1NjIxLDQ2MD
 g3MDg2NSwxOTM0NzExMTAwXX0=
