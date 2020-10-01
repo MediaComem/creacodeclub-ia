@@ -2,6 +2,14 @@
 
 [Support de cours](./supports/identifier-ia.md)
 
+## But de cette partie
+
+A la fin de cette partie, l'élève sera capable de :
+
+- Comprendre la différence entre l'IA et un logiciel classique
+- Identifier les domaines liés à l'IA
+- Distinguer les 2 principaux types d'IA (faible/forte)
+
 ## Introduction au cours
 
 ### Durée
@@ -45,7 +53,7 @@ XX minutes - Exercice & Correction ##TODO\$
 
 | Domaine                                      | Définition                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI                                           | ["L'intelligence artificielle (IA) est « l'ensemble des théories et des techniques mises en œuvre en vue de réaliser des machines capables de simuler l'intelligence "](https://fr.wikipedia.org/wiki/Intelligence_artificielle)                                                                                                                                                                               |
+| IA                                           | ["L'intelligence artificielle (IA) est « l'ensemble des théories et des techniques mises en œuvre en vue de réaliser des machines capables de simuler l'intelligence "](https://fr.wikipedia.org/wiki/Intelligence_artificielle)                                                                                                                                                                               |
 | Robotique                                    | ["La robotique est l'ensemble des techniques permettant la conception et la réalisation de machines automatiques ou de robots."](https://fr.wikipedia.org/wiki/Robotique)                                                                                                                                                                                                                                      |
 | Apprentissage automatique (Machine Learning) | ["l'apprentissage automatique [..] est un champ d'étude de l'intelligence artificielle qui se fonde sur des approches mathématiques et statistiques pour donner aux ordinateurs la capacité d'« apprendre » à partir de données, c'est-à-dire d'améliorer leurs performances à résoudre des tâches sans être explicitement programmés pour chacune."](https://fr.wikipedia.org/wiki/Apprentissage_automatique) |
 | Science des données                          | ["En termes généraux, la science des données est l'extraction de connaissance d'ensembles de données"](https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es)                                                                                                                                                                                                                                                 |
@@ -53,7 +61,9 @@ XX minutes - Exercice & Correction ##TODO\$
 | Statistiques                                 | ["La statistique est la discipline qui étudie des phénomènes à travers la collecte de données, leur traitement, leur analyse, l'interprétation des résultats et leur présentation afin de rendre ces données compréhensibles par tous."](https://fr.wikipedia.org/wiki/Statistique)                                                                                                                            |
 | Informatique.                                | ["L'informatique est un domaine d'activité scientifique, technique, et industriel concernant le traitement automatique de l'information numérique par l'exécution de programmes informatiques par des machines"](https://fr.wikipedia.org/wiki/Informatique)                                                                                                                                                   |
 
-Premièrement, définir/expliquer chacun des domaines ci-dessus, puis avec l'aide des élèves, construire un diagramme d'Euler des différents domaines et de leurs liens (le diagramme est disponible dans le support de cours). ##TODO lien vers diagramme ?
+Premièrement, définir/expliquer chacun des domaines ci-dessus, puis avec l'aide des élèves, construire un diagramme d'Euler ([Un diagramme d'Euler est un moyen de représentation diagrammatique des ensembles et des relations en leur sein.](https://fr.wikipedia.org/wiki/Diagramme_d%27Euler)) des différents domaines et de leurs liens. Pour éviter de rendre la chose trop compliquée, il est possible de dessiner le diagramme sans les domaines, ceux-ci étant placés de manière intéractive par les étudiants.
+
+<img src="./supports/assets/img/VerdonArthur-CreaCodeClubAI-EulerTaxonomieDiag.jpg" alt="" width="600">
 
 ### Exercice
 
