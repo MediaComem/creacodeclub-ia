@@ -16,14 +16,23 @@ L'exercice comprend une liste de système, brièvement décrit et illustré avec
 ### Liste des systèmes
 | Système | IA or Not IA | Image | 
 | ------- | ------------ | ----- |
-| Page recommandation de YouTube | IA | |
-|  Système GPS permettant de trouver la route la plus rapide | Pas IA | |
-|  Une feuille de calcul Excel | Pas IA |
-|  Filtre chien de Snapchat | IA
-|  Système Google Translate | IA
-|  Auto pilote Tesla | IA
-|  Siri | IA
-|  Une Ford T | Pas IA
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDQ0Mzk4XX0=
--->
+| Page recommandation de YouTube | .... | ![Page d'accueil de Youtube](./assets/youtube-homepage.png) |
+|  Système GPS permettant de trouver la route la plus rapide | .... | ![Satellite GPS](https://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg) |
+|  Une feuille de calcul Excel | .... | ![Excel](https://upload.wikimedia.org/wikipedia/en/9/94/Microsoft_Excel.png)
+|  Filtre chien de Snapchat | .... | ![Filtre chien de Snapchat](./assets/snapchat-filter-dog.bmp)
+|  Système Google Translate | .... | ![Capture d'écran de la page d'accueil de Google Translate](https://upload.wikimedia.org/wikipedia/commons/2/2b/Screenshot_of_Google_Translate.png)
+|  Auto pilote Tesla | .... | ![Voiture de marque Tesla](https://upload.wikimedia.org/wikipedia/commons/7/73/Elbilfestival_i_Geiranger_two_Tesla_Model_S_electric_cars.jpg)
+|  Siri | .... | ![Capture d'écran de Siri](https://upload.wikimedia.org/wikipedia/en/5/50/Siri_on_iOS.png)
+|  Une Ford T | .... | ![Une Ford T](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/1280px-1925_Ford_Model_T_touring.jpg)
+
+### Liste des systèmes - Correction
+| Système | IA or Not IA | Image | 
+| ------- | ------------ | ----- |
+| Page recommandation de YouTube | IA | ![Page d'accueil de Youtube](./assets/youtube-homepage.png) |
+|  Système GPS permettant de trouver la route la plus rapide | Pas IA | ![Satellite GPS](https://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg) |
+|  Une feuille de calcul Excel | Pas IA | ![Excel](https://upload.wikimedia.org/wikipedia/en/9/94/Microsoft_Excel.png)
+|  Filtre chien de Snapchat | IA | ![Filtre chien de Snapchat](./assets/snapchat-filter-dog.bmp)
+|  Système Google Translate | IA | ![Capture d'écran de la page d'accueil de Google Translate](https://upload.wikimedia.org/wikipedia/commons/2/2b/Screenshot_of_Google_Translate.png)
+|  Auto pilote Tesla | IA | ![Voiture de marque Tesla](https://upload.wikimedia.org/wikipedia/commons/7/73/Elbilfestival_i_Geiranger_two_Tesla_Model_S_electric_cars.jpg)
+|  Siri | IA | ![Capture d'écran de Siri](https://upload.wikimedia.org/wikipedia/en/5/50/Siri_on_iOS.png)
+|  Une Ford T | Pas IA | ![Une Ford T](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/1280px-1925_Ford_Model_T_touring.jpg)
