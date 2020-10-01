@@ -1,0 +1,12 @@
+# Liste des systèmes - Correction
+
+| Système                                                   | IA or Not IA | Image                                                                                                                                                                         |
+| --------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Page recommandation de YouTube                            | IA           | <img src="./assets/youtube-homepage.png" width="300" alt="Page d'accueil de Youtube">                                                                                         |
+| Système GPS permettant de trouver la route la plus rapide | PAS IA       | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg" width="300" alt="Satellite GPS">                                                |
+| Une feuille de calcul Excel                               | PAS IA       | <img src="https://upload.wikimedia.org/wikipedia/en/9/94/Microsoft_Excel.png" width="300" alt="Excel">                                                                        |
+| Filtre chien de Snapchat                                  | IA           | <img src="./assets/snapchat-filter-dog.bmp" width="300" alt="Filtre chien de Snapchat">                                                                                       |
+| Système Google Translate                                  | IA           | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Screenshot_of_Google_Translate.png" width="300" alt="Capture d'écran de la page d'accueil de Google Translate"> |
+| Auto pilote Tesla                                         | IA           | <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Elbilfestival_i_Geiranger_two_Tesla_Model_S_electric_cars.jpg" width="300" alt="Voiture de marque Tesla">       |
+| Siri                                                      | IA           | <img src="https://upload.wikimedia.org/wikipedia/en/5/50/Siri_on_iOS.png" width="300" alt="Capture d'écran de Siri">                                                          |
+| Une Ford T                                                | PAS IA       | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/1280px-1925_Ford_Model_T_touring.jpg" width="300" alt="Une Ford T">         |
