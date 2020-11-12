@@ -4,44 +4,35 @@
 
 ## Description
 
-Ce dépôt contient tout les éléments liés au cours sur l'IA préparé pour un public d'enfants de [reste à déterminer].
+Ce dépôt contient tout les éléments liés à l'atelier sur l'IA préparé pour différent public.
 
 ## Réutilisation
 
 Le cours est sous licence Apache 2.0, cela signifie que tout le matériel présent dans ce dépôt peut-être réutilisé, modifié et redistribué tant qu'une référence à l'original est donnée.
 
-## Objectifs
+## Objectif de l'atelier
 
-### Identifier l'IA
+> Permettre de démystifier l'IA au travers de la création d'un modèle via de l'apprentissage supervisé.
 
-A la fin de cette partie, l'élève sera capable de :
+## Plan de l'atelier
 
-- Comprendre la différence entre l'IA et un logiciel classique
-- Identifier les domaines liés à l'IA
-- Distinguer les 2 principaux types d'IA (faible/forte)
-
-### Déchiffrer le fonctionnement de l'IA
-
-Pour cette partie, l'élève sera capable de:
-
-- Citer quelques algorithmes/méthodes populaires utilisant l'IA (résolution de problème, MinMax)
-- Expliquer globalement le fonctionnement du Machine Learning (Jeux de données → Algorithme → Prédiction)
-
-### Saisir l'impact sociétale de l'IA
-
-Suite à cette dernière partie, l'élève sera capable de:
-
-- Discerner les différents biais algorithmiques qu'apporte un mauvais jeux de données
-- Avoir un esprit plus critique vis-à-vis des contenus média (en particulier vidéos et images)
-- Comprendre les enjeux liés aux bulles de filtrage
-
-## Outils utilisé
-
-Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/) est utilisé.
+1. Introduction
+2. Qu'est-ce que l'IA
+   1. Définition de l'IA
+   2. Qu'est-ce que l'IA pour vous ? 
+   3. Domaine de l'IA
+   4. Thématique IA à intelligence horizontale VS verticale
+3. Fonctionnement
+   1. Qu'est qu'un algorithme
+   2. Le machine learning
+4. Partie pratique
+5. Impact sociétale
+6. Conclusion
 
 ## Auteurs
 
 - Arthur Verdon
+- Alexandre Pinault
 
 ## Sources
 
@@ -50,7 +41,4 @@ Pour générer les supports de cours, l'outil [MARPIT](https://marpit.marp.app/)
 - [Intro to IA for kids](https://medium.com/eliza-effect/science-fiction-movie-trailers-and-youtube-videos-i-use-to-help-kids-understand-artificial-38a6c08d4652)
 - [Workshop sur l'IA pour les enfants](https://medium.com/@_tlabs/ai-for-kids-it-is-our-responsibility-to-enable-children-worldwide-to-engage-with-artificial-ec0d5c627945)
 - [MIT AI Ethics Education Curriculum](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/edit#heading=h.ictx1ljsx0z4)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODI3MDE4OCwtNjk3ODQwMDU5LDc1OT
-g1MzUxOCwtMTEwNzAyMjk1N119
--->
+
