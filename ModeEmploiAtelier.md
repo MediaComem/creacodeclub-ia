@@ -2,21 +2,35 @@
 
 ## Introduction
 
-Effet wouahou avec la présentation de ce que l'on va faire
+Donner un effet "Whaou" en présentant un exemple de ce qui va être accompli dans la partie pratique de l'atelier.
 
 ## Qu'est-ce que l'IA
 
 ### Définition de l'IA
 
-poser la question aux participants: Intelligence kesako, Artificielle keskako. Ancrage de faible vs fort (niveau humain)
+poser la question aux participants: 
+
+- Pouvez-vous me définir l'Intelligence ?
+- Pouvez-vous me définir Artificielle. 
+
+Effectuer un ancrage sur l'intelligence vertical vs l'intelligence horizontale au niveau humain
 
 ### Qu'est-ce que l'IA pour vous ? 
 
-Adulte:demandez une image aux participants, Enfants: Moodboard d'image et demandez lesquels en seraient (1choix par etudiant)
+Pour les adultes, demandez à ce qu'il cherche une image sur internet que représente le mieux un IA pour eux
+
+Pour les enfants, présentez un moodboard d'image représentant ou non des IA et demandez lesquels représenteraient pour eux aux mieux l'IA (1 vote par personne). 
+
+Dans les 2 cas, et suivant la taille des groupes, les représentations peuvent être discutées.
 
 ### Domaine de l'IA
 
-Poupées russes pour expliquer que l'IA est englobee dans plein de domaine
+Utiliser l'image des poupées russes pour expliquer que l'IA est un sous-domaine 3 autres domaines:
+
+- IA
+- Informatique
+- Statistique
+- Math
 
 ### Thématique IA à intelligence horizontale VS verticale
 
@@ -35,7 +49,7 @@ Verticale → est constituée d'algorithme (Comment elle creuse dans sa vertical
 ## Fonctionnement
 ### Qu'est qu'un algorithme
 
-Exemple gateau au chocolat / Recette -> Donc la machine suit bêtement une recette écrite par un humain
+Exemple gâteau au chocolat / Recette -> Donc la machine suit bêtement une recette écrite par un humain
 
 ### Le machine learning
 
@@ -53,14 +67,14 @@ Exemple: la machine apprends à faire un gâteau au chocolat à partir d'ingréd
 4. Présentation du logiciel
 5. Let's go
 6. Présenter des résultats des groupes
-7. (Eventuellement le temps pour mettre sur une app téléphone ou web)
+7. (Éventuellement le temps pour mettre sur une app téléphone ou web)
 
 ## Impact sociétale
 
-Rapport au Gateau au chocolat et la personne qui note si c'est bien (Biais alorithmique). Par exemple c'est un Vegan qui note le gateau au chocolat
+Rapport au gâteau au chocolat et la personne qui note si c'est bien (Biais algorithmique). Par exemple c'est un Vegan qui note le gâteau au chocolat
 
 ## Conclusion
 
-1. Resume de ce qui a été appris
-2. Parler du crea et des autres ateliers
+1. Résumé de ce qui a été appris
+2. Parler du CCC et des autres ateliers
 3. Donner support de cours + flyer CCC
